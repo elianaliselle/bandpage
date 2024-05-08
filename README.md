@@ -30,13 +30,13 @@
             <li>Strong Biblical Teaching</li>
          </ul>
       </div>
-      <div class="band-member">
-         <img src="Jesus.avif" width="150" 
-            alt="Lead guitarist">
+      <div class="jesus-member">
+         <img src="kiethcraft.jpeg" width="150" 
+            alt="Pastor">
          <ul>
-            <li><strong>Ethan Andrews</strong></li>
-            <li>Lead guitarist from Norfolk, Virginia</li>
-            <li>Blistering soloist</li>
+            <li><strong>Kieth Craft</strong></li>
+            <li>Motivational Pastor from Frisco, Texas</li>
+            <li>Enhances motivation with the Word of God</li>
          </ul>
       </div>
       <div class="band-member">
