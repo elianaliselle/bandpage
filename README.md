@@ -21,7 +21,7 @@
 
    <section id="members">
       <h2>Members</h2>
-      <div class="Jesus Member">
+      <div class="jesus-member">
          <img src= "image/mikewinger.jpeg" width="100" 
             alt="Pastor">
          <ul>
