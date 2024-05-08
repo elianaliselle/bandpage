@@ -39,13 +39,13 @@
             <li>Enhances motivation with the Word of God</li>
          </ul>
       </div>
-      <div class="band-member">
-         <img src="mikewinger.jpeg" width="150" 
-            alt="Second guitar">
+      <div class="jesus-member">
+         <img src="isaiahsaldivar.jpeg" width="150" 
+            alt="Pastor">
          <ul>
-            <li><strong>Colton Davis</strong></li>
-            <li>Support guitarist from Denver, Colorado</li>
-            <li>The glue that keeps the band together</li>
+            <li><strong>Isaiah Saldivar</strong></li>
+            <li>Pastor from California</li>
+            <li>The pastor who cast's out demons</li>
          </ul>
       </div>
    </section>
