@@ -11,7 +11,7 @@
    <header>
       <h1>Reach Out</h1>
       <img src=img
-         alt="Jesus class="center">
+         alt="Jesus" class="center">
       <div class="nav">
          <a href="#members">Members</a> &nbsp;
          <a href="#concerts">Concerts</a> &nbsp;
