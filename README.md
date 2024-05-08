@@ -22,7 +22,7 @@
    <section id="members">
       <h2>Members</h2>
       <div class="Jesus Member">
-         <img src= "/image/mike-winger-headshot.jpeg" width="100" 
+         <img src= "image/mikewinger.jpeg" width="100" 
             alt="Pastor">
          <ul>
             <li><strong>Mike-Winger</strong></li>
