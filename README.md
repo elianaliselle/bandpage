@@ -25,7 +25,7 @@
          <img src= "Mikewinger.webp" width="150" 
             alt="Pastor">
          <ul>
-            <li><strong>Mike-Winger</strong></li>
+            <li><strong>Mike Winger</strong></li>
             <li>Pastor from Bellflower, California</li>
             <li>Strong Biblical Teaching</li>
          </ul>
@@ -40,7 +40,7 @@
          </ul>
       </div>
       <div class="band-member">
-         <img src="https://static-resources.zybooks.com/guitar_support_150.jpg" width="150" 
+         <img src="mikewinger.jpeg" width="150" 
             alt="Second guitar">
          <ul>
             <li><strong>Colton Davis</strong></li>
