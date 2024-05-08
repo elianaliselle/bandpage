@@ -31,7 +31,7 @@
          </ul>
       </div>
       <div class="jesus-member">
-         <img src="kiethcraft.jpeg" width="150" 
+         <img src="keithcraft.jpeg" width="150" 
             alt="Pastor">
          <ul>
             <li><strong>Kieth Craft</strong></li>
