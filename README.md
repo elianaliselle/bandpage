@@ -4,14 +4,14 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
-   <title>Reach Out</title>
+   <title>The Good News</title>
    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
    <header>
       <h1>Reach Out</h1>
-      <img src="https://static-resources.zybooks.com/band_wide.jpg" 
-         alt="Band at a concert" class="center">
+      <img src=img
+         alt="Jesus class="center">
       <div class="nav">
          <a href="#members">Members</a> &nbsp;
          <a href="#concerts">Concerts</a> &nbsp;
