@@ -31,7 +31,7 @@
          </ul>
       </div>
       <div class="band-member">
-         <img src="mikewinger.jpeg" width="150" 
+         <img src="Jesus.avif" width="150" 
             alt="Lead guitarist">
          <ul>
             <li><strong>Ethan Andrews</strong></li>
