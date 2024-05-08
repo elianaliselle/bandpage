@@ -21,13 +21,13 @@
 
    <section id="members">
       <h2>Members</h2>
-      <div class="band-member">
-         <img src="https://static-resources.zybooks.com/singer_150.jpg" width="150" 
-            alt="Singer">
+      <div class="Jesus-member">
+         <img src="mikewinger.jpeg" width="150" 
+            alt="Pastor">
          <ul>
-            <li><strong>Braden Williamson</strong></li>
-            <li>Lead singer from Little Rock, Arkansas</li>
-            <li>Powerful vocals and creative lyrics</li>
+            <li><strong>Mike-Winger</strong></li>
+            <li>Pastor from Bellflower, California</li>
+            <li>Strong Biblical Teaching</li>
          </ul>
       </div>
       <div class="band-member">
