@@ -1,4 +1,4 @@
-# bandpage
+=# bandpage
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +14,7 @@
          alt="Jesus" class="center">
       <div class="nav">
          <a href="#members">Members</a> &nbsp;
-         <a href="#concerts">Concerts</a> &nbsp;
+         <a href="#concerts">Pastors</a> &nbsp;
          <a href="#contact">Contact</a>
       </div>
    </header>
@@ -22,7 +22,7 @@
    <section id="members">
       <h2>Members</h2>
       <div class="Jesus-member">
-         <img src=mikewinger.jpeg width="150" 
+         <img src="img/mikewinger.jpeg" width="150" 
             alt="Pastor">
          <ul>
             <li><strong>Mike-Winger</strong></li>
