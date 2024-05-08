@@ -10,7 +10,7 @@
 <body>
    <header>
       <h1>Reach Out</h1>
-      <img src=img
+      <img src=Jesus.avif
          alt="Jesus" class="center">
       <div class="nav">
          <a href="#members">Members</a> &nbsp;
